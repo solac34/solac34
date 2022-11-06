@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ata Can Solak</h1>
-<h3 align="center">has a big passion about AI and Data Analysis</h3>
+<h3 align="center">Into AI & Data Analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solac34&label=Profile%20views&color=b40e0e&style=flat" alt="solac34" /> </p>
 
