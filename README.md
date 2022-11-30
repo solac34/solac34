@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solac34&label=Profile%20views&color=b40e0e&style=flat" alt="solac34" /> </p>
 
-- 🌱 I’m currently learning **TensorFlow and PyTorch**
+- 🌱 I’m currently learning **cv2**
 
 - 💬 Ask me anything about **python and machine learning**
 
